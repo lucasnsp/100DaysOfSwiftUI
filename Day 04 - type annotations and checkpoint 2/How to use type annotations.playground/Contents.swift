@@ -37,3 +37,10 @@ enum UIStyle {
 var style: UIStyle = UIStyle.light
 style = .dark
 
+// tryng checkpoint 2
+
+var newArray = ["car", "motocycle", "Mansion"]
+print(newArray.count]
+
+Set(newArray) = ["car", "motocycle"]
+
